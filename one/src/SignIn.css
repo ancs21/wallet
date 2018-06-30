@@ -1,0 +1,14 @@
+li.firebaseui-list-item:nth-child(2) {
+    display: none;
+}
+
+button.firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-phone.firebaseui-id-idp-button {
+    border-radius: 999px;
+    padding: 17px;
+    /* font-size: 2em; */
+    font-family: Quicksand, sans-serif;
+}
+
+button.firebaseui-idp-button.mdl-button.mdl-js-button.mdl-button--raised.firebaseui-idp-phone.firebaseui-id-idp-button span {
+    font-size: 16px;
+}
